@@ -1,0 +1,13 @@
+name = "OriginAddons"
+filename = "originaddons.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ECVMthxr/versions/iiYM6QRb/originaddons-1.0.2-FABRIC.jar"
+hash-format = "sha1"
+hash = "00ce58894352359e183b0562ce0f37df4e68f7d5"
+
+[update]
+[update.modrinth]
+mod-id = "ECVMthxr"
+version = "iiYM6QRb"

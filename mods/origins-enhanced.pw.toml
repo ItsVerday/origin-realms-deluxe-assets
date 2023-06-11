@@ -1,0 +1,13 @@
+name = "Origin Enhanced"
+filename = "origin-enhanced.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f88eb127486802588033c0ce78de9ca2d4af337"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4361683
+project-id = 433948

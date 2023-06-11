@@ -1,0 +1,118 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = element
+  orientation_element = 1532741f-fd65-44a5-b1cf-1c87c602971c1685914249372
+  x = 0
+  action = movebutton
+  y = 48
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = element
+  orientation_element = 1532741f-fd65-44a5-b1cf-1c87c602971c1685914249372
+  x = 0
+  action = movebutton
+  y = 72
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = element
+  orientation_element = 1532741f-fd65-44a5-b1cf-1c87c602971c1685914249372
+  x = 0
+  action = movebutton
+  y = 24
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 232
+  action = deep_customization_element:title_screen_branding
+  actionid = 132d94e5-dee3-459f-a813-d80f15b856901685913899919
+  y = 367
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 423
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = a31688b7-8f3a-46f1-acd4-f3a91766ebf11685913899919
+  y = 194
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 183
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = cd48dd89-3fb9-4cf0-a5dc-e16389f54d6d1685913899919
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ffff00
+  hidden = true
+  x = 71
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 27a169ed-aba1-46db-9844-9535af770a441685913899919
+  y = 97
+  height = 30
+}
+
+customization {
+  path = fancymenu/logo_title.png
+  orientation = top-centered
+  x = -100
+  width = 200
+  action = addtexture
+  actionid = 9633455d-9c6d-4606-91d0-afabb92860b11685927589801
+  y = 11
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = joinserver;play.originrealms.com%btnaction_splitter_fm%
+  x = 220
+  width = 200
+  action = addbutton
+  actionid = 1532741f-fd65-44a5-b1cf-1c87c602971c1685914249372
+  y = 130
+  label = Join Origin Realms
+  height = 20
+}
+

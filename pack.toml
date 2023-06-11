@@ -1,0 +1,13 @@
+name = "Origin Realms Deluxe"
+author = "Verday"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6887995efa188bbe148f835fcd191041cdbb321a40f3b5cb11d3fee96d7558f"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.10"
