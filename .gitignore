@@ -1,0 +1,11 @@
+*.exe
+dist/*.*
+!dist/Origin Realms Deluxe (MultiMC).zip
+resourcepacks/origin-realms-deluxe.zip
+resourcepacks/origin-realms-deluxe.overlays.zip
+resourcepacks/origin-realms-deluxe.tooltips.zip
+shaderpacks/rethinking-voxels-origin-realms.zip
+scripts/data/generate/node_modules/
+scripts/node_modules/
+assets/resourcepacks/origin-realms-deluxe.overlays/assets/minecraft/optifine/ctm/overlay_generated/
+assets/public/
