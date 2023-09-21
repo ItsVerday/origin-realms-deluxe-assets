@@ -44,7 +44,6 @@ Mods:
 - [Entity Culling](https://modrinth.com/mod/entityculling)
 - [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 - [ESSENTIAL](https://modrinth.com/mod/essential)
-- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 - [Fabrishot](https://modrinth.com/mod/fabrishot)
 - [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 - [FancyMenu](https://modrinth.com/mod/fancymenu)
