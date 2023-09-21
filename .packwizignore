@@ -1,0 +1,14 @@
+assets/
+scripts/
+dist/
+temp/
+.github/
+packsquash.toml
+README.md
+TODO.md
+BUILD.md
+*.exe
+*.bat
+.gitignore
+.gitattributes
+.gitmodules
