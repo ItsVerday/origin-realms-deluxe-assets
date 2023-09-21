@@ -3,9 +3,9 @@ version = "3"
 
 [features]
 	# Display your current network location as your Discord rich presence
-	"Rich Presence" = true
+	"Rich Presence" = false
 	# Tracks your location across the network and provides your location to other features
-	"Location Tracker" = false
+	"Location Tracker" = true
 
 [enhancements]
 	# Interpolate armor stand poses to create smoother animations

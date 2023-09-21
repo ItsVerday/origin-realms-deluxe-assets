@@ -8,7 +8,7 @@
   "clickthrough.config.ignore.3": {
     "key": "Ignore signs if row 3 matches: ",
     "toolTip": "clickthrough.config.tt.ignore.3",
-    "value": "b\\s*\\d+|b\\s*\\d+\\s*:\\s*\\d+\\s*s|\\d+\\s*s",
+    "value": "",
     "defaultValue": "b\\s*\\d+|b\\s*\\d+\\s*:\\s*\\d+\\s*s|\\d+\\s*s"
   },
   "clickthrough.config.ignore.4": {

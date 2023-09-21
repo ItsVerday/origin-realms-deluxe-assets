@@ -1,13 +1,13 @@
 name = "Effective"
 filename = "effective.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/pcPXJeZi/versions/oKm6MarD/effective-2.1.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "b84e05a57c10d26edb1d1c20d253511ee9f34621"
-mode = "metadata:curseforge"
+hash = "b77ddea5164fd55398c22f6065220c1fedf0dfa4"
 
 [update]
-[update.curseforge]
-file-id = 4092345
-project-id = 556381
+[update.modrinth]
+mod-id = "pcPXJeZi"
+version = "oKm6MarD"
