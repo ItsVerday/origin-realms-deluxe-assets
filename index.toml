@@ -709,15 +709,15 @@ hash = "dd8c71e163040d9b1428215a7d794559869f81021a3fea80f6eefb08056629ca"
 
 [[files]]
 file = "resourcepacks/origin-realms-deluxe.overlays.zip"
-hash = "b5cd5d1d0dd7e48e7f074b6d711fb98248ba2c7235efe99285804ac7692ef4c2"
+hash = "a24bd9516852f32c71ab5c484a6671985948dc05c59beaa161c040d58e5effcd"
 
 [[files]]
 file = "resourcepacks/origin-realms-deluxe.tooltips.zip"
-hash = "c5dd261162e4007598e19a2e57c01f00a15b4ff19ad7df9ac1843c613fbf6397"
+hash = "8ebda8a9fb49eaef2a88538887734b8c071f09b054ae64900d5ca2a792e2ba7a"
 
 [[files]]
 file = "resourcepacks/origin-realms-deluxe.zip"
-hash = "50d1027a38d189c8c2d3d09c1667bf5773fcd0cc0d4e5feb6f907754adad499e"
+hash = "76416144f2541f50d8dd4c2e488477629892b685d38547772bba4ae00b9f8ca3"
 
 [[files]]
 file = "servers.dat"
@@ -725,4 +725,4 @@ hash = "326e4058d6e462efbf62b4694eb26f64a9ef29ce631b15247b60130a8d26544b"
 
 [[files]]
 file = "shaderpacks/rethinking-voxels-origin-realms.zip"
-hash = "2292981af33d1bda4b2b961dbafee59da57425616ee424d55695e44eb7f98dc2"
+hash = "95a09c750c2259b71cb2d02b42117b32124efd2bf986840a4b55433c3963cb1e"
